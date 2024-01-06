@@ -1,0 +1,90 @@
+
+===========================================================================
+  This is a list of the latest RFCs only.
+  To get the full list of RFCs, please look up rfc-index.txt
+===========================================================================
+
+8757 Dynamic Link Exchange Protocol (DLEP) Latency Range Extension. B.
+     Cheng, L. Berger, Ed.. March 2020. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8757) 
+
+8758 Deprecating RC4 in Secure Shell (SSH). L. Velvindron. April 2020.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC4253) (Also BCP0227)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC8758) 
+
+8759 RTP Payload for Timed Text Markup Language (TTML). J. Sandford.
+     March 2020. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC8759) 
+
+8760 The Session Initiation Protocol (SIP) Digest Access Authentication
+     Scheme. R. Shekh-Yusef. March 2020. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC3261) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8760) 
+
+8761 Video Codec Requirements and Evaluation Methodology. A. Filippov, A.
+     Norkin, J.R. Alvarez. April 2020. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC8761) 
+
+8762 Simple Two-Way Active Measurement Protocol. G. Mirsky, G. Jun, H.
+     Nydell, R. Foote. March 2020. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8762) 
+
+8763 Deployment Considerations for Information-Centric Networking (ICN).
+     A. Rahman, D. Trossen, D. Kutscher, R. Ravindran. April 2020.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC8763) 
+
+8767 Serving Stale Data to Improve DNS Resiliency. D. Lawrence, W.
+     Kumari, P. Sood. March 2020. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC1034, RFC1035, RFC2181) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8767) 
+
+8768 Constrained Application Protocol (CoAP) Hop-Limit Option. M.
+     Boucadair, T. Reddy.K, J. Shallow. March 2020. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8768) 
+
+8769 Cryptographic Message Syntax (CMS) Content Types for Concise Binary
+     Object Representation (CBOR). J. Schaad. March 2020. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8769) 
+
+8770 Host Router Support for OSPFv2. K. Patel, P. Pillay-Esnault, M.
+     Bhardwaj, S. Bayraktar. April 2020. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC6987) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8770) 
+
+8771 The Internationalized Deliberately Unreadable Network NOtation
+     (I-DUNNO). A. Mayrhofer, J. Hague. 1 April 2020. (Format: HTML, TXT,
+     PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC8771) 
+
+8772 The China Mobile, Huawei, and ZTE Broadband Network Gateway (BNG)
+     Simple Control and User Plane Separation Protocol (S-CUSP). S. Hu,
+     D. Eastlake, F. Qin, T. Chua, D. Huang. May 2020. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8772) 
+
+8773 TLS 1.3 Extension for Certificate-Based Authentication with an
+     External Pre-Shared Key. R. Housley. March 2020. (Format: HTML, TXT,
+     PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC8773) 
+
+8774 The Quantum Bug. M. Welzl. 1 April 2020. (Format: HTML, TXT, PDF,
+     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8774) 
+
+8775 PIM Designated Router Load Balancing. Y. Cai, H. Ou, S. Vallepalli,
+     M. Mishra, S. Venaas, A. Green. April 2020. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8775) 
+
+8777 DNS Reverse IP Automatic Multicast Tunneling (AMT) Discovery. J.
+     Holland. April 2020. (Format: HTML, TXT, PDF, XML) (Updates RFC7450)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8777) 
+
+8778 Use of the HSS/LMS Hash-Based Signature Algorithm with CBOR Object
+     Signing and Encryption (COSE). R. Housley. April 2020. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8778) 
+
+8781 Discovering PREF64 in Router Advertisements. L. Colitti, J. Linkova.
+     April 2020. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC8781) 
+
+===========================================================================
+ - This file last updated Mon May 18 02:30:01 PDT 2020
+
